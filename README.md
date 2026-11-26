@@ -29,6 +29,7 @@ Every script in this repository is **100% read-only on Google Ads**: it reads th
 - **[Free Browser-Local Google Ads Tools](https://www.withparallel.ai/tools):** 30.4x Budget Pacing Calculator, Negative Keyword Collision Checker, GA4 vs. Google Ads Debugger, Performance Max Waste Estimator, and API v26 GAQL Query Builder.
 - **[Free Google Ads Agent Skills](https://www.withparallel.ai/skills):** 13 free, source-available skills (PolyForm Shield 1.0.0) for Claude Code, Codex, and Cursor (`npx skills add parallel-ai-inc/google-ads-skills -g`).
 - **[Google Ads AI Agent Benchmark 2027](https://www.withparallel.ai/research/google-ads-ai-agent-benchmark-2027):** Open MIT-licensed 25-task benchmark testing frontier AI models across 5,995 rows of realistic Google Ads exports.
+- **[Google Ads Platform Changes Tracker](https://www.withparallel.ai/resources/google-ads-changes-tracker):** Live reference of 2026 Google Ads API, policy, and reporting changes that affect campaigns and audits.
 - **[Parallel AI for Google Ads](https://www.withparallel.ai/blog/google-ads-ai-agent):** Continuous multi-account audits, planning, campaign builds, and editable Docs and Sheets on live Google Ads accounts.
 
 ## License & Trademark
