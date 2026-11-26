@@ -1,6 +1,6 @@
 # Free Open-Source Google Ads Scripts (MIT, Read-Only)
 
-Maintained by **[Parallel AI for Google Ads](https://www.withparallel.ai)** — the AI agent platform for Google Ads professionals.
+Maintained by **[Parallel AI](https://www.withparallel.ai)**, the AI agent platform for Google Ads professionals.
 
 Configure any script in your browser (with live `CONFIG` diffing, URL sharing that strips private Sheet URLs and emails, and interactive Google Sheet previews) at **[withparallel.ai/scripts](https://www.withparallel.ai/scripts)**.
 
@@ -24,11 +24,12 @@ Every script in this repository is **100% read-only on Google Ads**: it reads th
 4. Copy the Google Sheet URL from the last log line into `CONFIG.SPREADSHEET_URL` so scheduled runs reuse one Sheet.
 5. Set the run frequency (**Daily** or **Weekly**) on the Scripts page.
 
-## Companion Open-Source & Free Resources
+## Related Resources
 
-- **[Free Browser-Local Google Ads Tools](https://www.withparallel.ai/tools)** — 30.4x Budget Pacing Calculator, Negative Keyword Collision Checker, GA4 vs Google Ads Debugger, Performance Max Waste Estimator, and API v26 GAQL Query Builder.
-- **[Free Google Ads Agent Skills](https://www.withparallel.ai/skills)** — 13 open-source skills for Claude Code, Codex, and Cursor (`npx skills add parallel-ai-inc/google-ads-skills -g`).
-- **[Parallel AI for Google Ads](https://www.withparallel.ai/blog/google-ads-ai-agent)** — When you want continuous multi-account audits, planning, campaign builds, and editable Docs & Sheets on live Google Ads accounts.
+- **[Free Browser-Local Google Ads Tools](https://www.withparallel.ai/tools):** 30.4x Budget Pacing Calculator, Negative Keyword Collision Checker, GA4 vs. Google Ads Debugger, Performance Max Waste Estimator, and API v26 GAQL Query Builder.
+- **[Free Google Ads Agent Skills](https://www.withparallel.ai/skills):** 13 free, source-available skills (PolyForm Shield 1.0.0) for Claude Code, Codex, and Cursor (`npx skills add parallel-ai-inc/google-ads-skills -g`).
+- **[Google Ads AI Agent Benchmark 2027](https://www.withparallel.ai/research/google-ads-ai-agent-benchmark-2027):** Open MIT-licensed 25-task benchmark testing frontier AI models across 5,995 rows of realistic Google Ads exports.
+- **[Parallel AI for Google Ads](https://www.withparallel.ai/blog/google-ads-ai-agent):** Continuous multi-account audits, planning, campaign builds, and editable Docs and Sheets on live Google Ads accounts.
 
 ## License & Trademark
 
